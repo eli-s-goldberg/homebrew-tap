@@ -1,9 +1,9 @@
-# Measured Notes Homebrew tap
+# Measured Notes has moved
+
+The app and its Homebrew cask are now maintained by Goldberg Consulting.
 
 ```sh
-brew install --cask eli-s-goldberg/tap/measured-notes
+brew install --cask goldberg-consulting/tap/measured-notes
 ```
 
-Requires Apple silicon and macOS 26 or later. The initial release is ad-hoc signed and is not notarized; macOS may block it from opening.
-
-[Source and installation details](https://github.com/eli-s-goldberg/measured-notes)
+[Source](https://github.com/goldberg-consulting/measured-notes) · [Homebrew tap](https://github.com/goldberg-consulting/homebrew-tap)
