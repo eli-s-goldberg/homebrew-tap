@@ -8,7 +8,7 @@ cask "measured-notes" do
   homepage "https://github.com/eli-s-goldberg/measured-notes"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Measured Notes.app"
 
